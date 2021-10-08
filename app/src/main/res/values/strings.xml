@@ -1,0 +1,17 @@
+<resources>
+    <!--    <string name="app_name">InterviewDemo22</string>-->
+    <string name="aes_seed" translatable="false">myseedaesdufryte</string>
+
+    <string name="error_unknownError">錯誤，請稍後再試</string>
+    <string name="NETWORK_ON_MAIN_THREAD" translatable="false">NetworkOnMainThreadException</string>
+    <string name="JSON_PARSE_EXCEPTION" translatable="false">JsonParseException</string>
+    <string name="BAD_GATEWAY" translatable="false">Bad Gateway</string>
+    <string name="NOT_FOUND" translatable="false">Not Found 未找到請求資源</string>
+    <string name="CONNECTION_TIMEOUT" translatable="false">Request Timeout 請求逾時</string>
+    <string name="NETWORK_NOT_CONNECT" translatable="false">Network Not Connect</string>
+    <string name="UNEXPECTED_ERROR" translatable="false">Unexpected Error</string>
+    <string name="UNKNOWN_HOST" translatable="false">UnknownHostException (Please Check Network)</string>
+
+    <string name="search_by_keyword">Search by keyword</string>
+    <string name="retry">Retry</string>
+</resources>
